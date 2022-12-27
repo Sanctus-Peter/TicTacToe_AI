@@ -1,0 +1,21 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Tic-Tac-Toe with AI/*
+!/Tic-Tac-Toe with AI/task/
+/Tic-Tac-Toe with AI/task/*
+!/Tic-Tac-Toe with AI/task/tictactoe.py
+!/Tic-Tac-Toe with AI/task/build.gradle
+!/Tic-Tac-Toe with AI/task/build.gradle.kts
